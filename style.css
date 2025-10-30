@@ -21,8 +21,8 @@ body {
   align-items: center;
   justify-content: center;
   margin: auto;
-  height: 250px;
-  width: 250px;
+  height: 260px;
+  width: 260px;
   position: relative;
   transform: scale(1);
 }
@@ -47,8 +47,8 @@ body {
     #336d62 60%,
     #2a5b52 100%
   );
-  height: 320px;
-  width: 320px;
+  height: 280px;
+  width: 280px;
   z-index: -2;
   border-radius: 50%;
   position: absolute;
