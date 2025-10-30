@@ -94,7 +94,7 @@ body {
   }
 
   to {
-    transform: scale(1.2);
+    transform: scale(1.1);
   }
 }
 
@@ -104,7 +104,7 @@ body {
 
 @keyframes shrink {
   from {
-    transform: scale(1.2);
+    transform: scale(1.1);
   }
 
   to {
